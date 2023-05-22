@@ -34,7 +34,5 @@
 
 # Tech Stack
 <li>Languages:
-  <lo>
-    <lu>SQL (in progress)</lu>
-  </lo>
+  <lu>SQL (in progress)</lu>
 </li>
