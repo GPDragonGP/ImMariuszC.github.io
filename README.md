@@ -7,13 +7,13 @@
 
 <b>Some stats:</b> (in progress)
 
-1.bugs reported: ~50;
+-bugs reported: ~50;
 
-2.issues reproduced: ~150;
+-issues reproduced: ~150;
 
-3.test cases submitted: 50;
+-test cases submitted: 50;
 
-4.products tested: 5;
+-products tested: 5;
 
 </br>
 <b>My career goals:</b>
