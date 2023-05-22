@@ -33,6 +33,6 @@
 </br>
 
 ## **Tech Stack**
-<li>Languages:
-  <lu>SQL (in progress)</lu>
-</li>
++ Languages:
+  + SQL *(in progress)*
+  + HTML/CSS (basics) - examples of simple projects using HTML and CSS: Pro1 *(in progress)*
