@@ -7,10 +7,10 @@
 
 <b>Some stats:</b> (in progress)
 <li>
-  <lu>bugs reported: ~50;</lu>
+  <lo>bugs reported: ~50;</lo>
 </li>
 <li>
-  <lu>issues reproduced: ~150;</lu>
+  <lo>issues reproduced: ~150;</lo>
 </li>
 <li>
   <lo>test cases submitted: 50;</lo>
@@ -34,3 +34,8 @@
 </br>
 
 # Tech Stack
+<li>Languages:
+  <lo>
+    <lu>SQL (in progress)</lu>
+  </lo>
+</li>
