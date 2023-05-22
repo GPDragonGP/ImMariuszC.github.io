@@ -6,3 +6,6 @@
 # About Me
 
 <b>Some stats:</b> (in progress)
+<li>
+  <lo>bugs reported: ~50;</lo>
+</li>
