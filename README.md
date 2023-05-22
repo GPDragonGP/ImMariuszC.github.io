@@ -6,15 +6,18 @@
 # About Me
 
 <b>Some stats:</b> (in progress)
-
--bugs reported: ~50;
-
--issues reproduced: ~150;
-
--test cases submitted: 50;
-
--products tested: 5;
-
+<li>
+  <lo>bugs reported: ~50;</lo>
+</li>
+<li>
+  <lo>issues reproduced: ~150;<lo>
+</li>
+<li>
+  <lo>test cases submitted: 50;</lo>
+</li>
+<li>
+  <lo>products tested: 5;</lo>
+</li>
 </br>
 <b>My career goals:</b>
 <li>
