@@ -8,4 +8,7 @@
 <b>Some stats:</b> (in progress)
 <li>
   <lo>bugs reported: ~50;</lo>
+  <lo>issues reproduced: ~150;</lo>
+  <lo>test cases submitted: 50;</lo>
+  <lo>products tested: 5;</lo>
 </li>
