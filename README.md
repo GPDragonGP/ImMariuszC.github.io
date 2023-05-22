@@ -18,5 +18,17 @@
 <li>  
   <lo>products tested: 5;</lo>
 </li>
+
 </br>
 <b>My career goals:</b>
+<li>
+  <lo>mastering manual software testing;</lo>
+</li>
+<li>
+  <lo>mastering API testing;</lo>
+</li>
+<li>
+  <lo>mastering HTML & CSS & Java;</lo>
+</li>
+
+</br>
