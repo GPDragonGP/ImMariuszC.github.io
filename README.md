@@ -81,6 +81,8 @@
 + [Sekurak] *(no links by disappearing recordings after 30 days)*
 + [Kolejny bezpłatny webinar w Twoje Drzwi do IT!](https://preview.mailerlite.com/z2j0b3v4n9/2212405190533848054/z5n9/#ml-survey-link-13)
 + [cantest.it] *(no links by disappearing recordings after 30 days)*
++ [Jak wejść do branży cybersecurity nawet jeżeli zaczynasz od 0?](https://www.youtube.com/watch?v=rmb5d7FgRCA)
++ [Jak dostać pracę jako tester SZYBCIEJ?](https://prnt.sc/MtrEiQxluSq9)
 
 ## **Conferences & Meetups**
 + *(in progress)*
