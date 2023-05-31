@@ -74,6 +74,9 @@
 + [cherry-it.pl](http://cherry-it.pl)
 + [podcasttestowanie.pl](https://podcasttestowanie.pl)
 
+## **My Projects (napisz po angielsku: w których uczestniczyłem)**
++ (in progress)
+
 ## **Webinars**
 + [Webinar: Jak zostać Junior Testerem Oprogramowania?](https://www.youtube.com/watch?v=wbj9ACcL7Ts)
 + [Webinar: ABC Testowania](https://www.youtube.com/watch?v=MTgLzf5Tcjw&t=2s)
