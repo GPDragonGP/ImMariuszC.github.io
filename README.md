@@ -74,7 +74,7 @@
 + [cherry-it.pl](http://cherry-it.pl)
 + [podcasttestowanie.pl](https://podcasttestowanie.pl)
 
-## **My Projects (napisz po angielsku: w których uczestniczyłem)**
+## **My Projects (in which I participated)**
 + (in progress)
 
 ## **Webinars**
