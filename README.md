@@ -117,7 +117,7 @@
 *(in process)*
 
 ## **My Test Report Examples**
-*(in process)*
+*(in process.)*
 
 ## **My Test Suite Examples**
 *(in process)*
