@@ -86,6 +86,7 @@
 + [cantest.it] *(no links by disappearing recordings after 30 days)*
 + [Jak wejść do branży cybersecurity nawet jeżeli zaczynasz od 0?](https://www.youtube.com/watch?v=rmb5d7FgRCA)
 + [Jak dostać pracę jako tester SZYBCIEJ?](https://prnt.sc/MtrEiQxluSq9)
++ [Podstawowe zasady testów wydajnościowych](https://prnt.sc/fsOjjh9ey5aB)
 
 ## **Conferences & Meetups**
 + *(in progress)*
