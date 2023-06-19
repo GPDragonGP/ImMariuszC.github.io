@@ -76,7 +76,7 @@
 
 ## **My Projects (in which I participated)**
 + [Close Beta Play Testing Games "Forever Skies" Organization "Far From Home Team"](https://store.steampowered.com/app/1641960/Forever_Skies/)
-+ [Workshops "Programming games in Unity"](in progress)
++ [Workshops "Programming games in Unity"](https://prnt.sc/thhaT2RhSEYm)
 
 ## **Webinars**
 + [Webinar: Jak zostać Junior Testerem Oprogramowania?](https://www.youtube.com/watch?v=wbj9ACcL7Ts)
@@ -90,7 +90,7 @@
 + [Podstawowe zasady testów wydajnościowych](https://prnt.sc/fsOjjh9ey5aB)
 
 ## **Conferences & Meetups**
-+ [LubGame Conference 2023](in progress)
++ [LubGame Conference 2023](https://prnt.sc/rKkSPE2Ltfde)
 
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
@@ -111,15 +111,3 @@
 + creating test cases based on specifications;
 + adding test cases to a test case management tool (TestLink);
 + API testing (Postman);
-
-## **My Test Case Examples**
-*(in process)*
-
-## **My Bug Report Examples**
-*(in process)*
-
-## **My Test Report Examples**
-*(in process.)*
-
-## **My Test Suite Examples**
-*(in process)*
