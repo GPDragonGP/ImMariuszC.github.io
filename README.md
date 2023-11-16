@@ -77,7 +77,8 @@
 ## **My Projects (in which I participated)**
 + [Close Beta Play Testing Games "Forever Skies" Organization "Far From Home Team"](https://store.steampowered.com/app/1641960/Forever_Skies/)
 + [Workshops "Programming games in Unity"](https://prnt.sc/thhaT2RhSEYm)
-+ [Cherry It 1/2023 (in progress)]()
++ [Cherry It 1/2023]()
++ [Cherry It COLT 3/2023](in progress)
 
 ## **Webinars**
 + [Webinar: Jak zostać Junior Testerem Oprogramowania?](https://www.youtube.com/watch?v=wbj9ACcL7Ts)
