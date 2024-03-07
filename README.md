@@ -30,7 +30,7 @@
   + collaborative platform: [Slack](https://slack.com)
   + API platform: [Postman](https://www.postman.com)
   + version control system: [Git](https://git-scm.com)
-  + code editor: [Visual Studio Code](https://code.visualstudio.com), [Brackets](https://brackets.io) 
+  + code editor: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Visual Studio Code](https://code.visualstudio.com), [Brackets](https://brackets.io)
 + Agile (Scrum)
 + Testing Skills:
   + verification of how applications and websites work by performing functional and exploratory tests
