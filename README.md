@@ -5,29 +5,15 @@
 
 ## **About Me**
 
-**Some stats:** (in progress)
-<li>
-  <lo>bugs reported: ~50;</lo>
-</li>
-<li>
-  <lo>issues reproduced: ~150;<lo>
-</li>
-<li>
-  <lo>test cases submitted: 50;</lo>
-</li>
-<li>
-  <lo>products tested: 6;</lo>
-</li>
-</br>
 <b>My career goals:</b>
 <li>
+  <lo>mastering Java & HTML & CSS;</lo>
+</li>
+<li>
+  <lo>mastering framework;</lo>
+</li>
+<li>
   <lo>mastering manual software testing;</lo>
-</li>
-<li>
-  <lo>mastering API testing;</lo>
-</li>
-<li>
-  <lo>mastering HTML & CSS & Java;</lo>
 </li>
 
 </br>
