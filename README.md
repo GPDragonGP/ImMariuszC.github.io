@@ -34,31 +34,32 @@
 
 ## **Tech Stack**
 + Languages:
+  + HTML/CSS
   + SQL *(in progress)*
-  + HTML/CSS (basics) - examples of simple projects using HTML and CSS: Pro1 *(in progress)*
+  + Java *(in progress)*
 + Tools:
   + Chrome DevTools
   + bug tracking: [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/pl)
-  + test case management: [TestRail](https://www.gurock.com/testrail)
+  + IntelliJ IDEA: [Java](https://www.jetbrains.com/idea/)
   + collaborative platform: [Slack](https://slack.com)
   + API platform: [Postman](https://www.postman.com)
   + version control system: [Git](https://git-scm.com)
   + code editor: [Visual Studio Code](https://code.visualstudio.com), [Brackets](https://brackets.io) 
 + Agile (Scrum)
 + Testing Skills:
-  + verification of how applications and websites work by performing functional *(in progress)* and exploratory tests
-  + creating and executing test scenarios *(in progress)*, test suites and test cases
+  + verification of how applications and websites work by performing functional and exploratory tests
   + creating bug reports
   + understanding the software development process
 
-## **Courses Completed**
+## **Courses**
 + [Dzienna Akademia Testowania](https://testuj.pl/course/package/attachment/6399ccbaea37e081145618.pdf)
-+ Fundamenty SQL: [Level 1 *(in progress)*](https://codenga.pl/products/fundamenty_sql_level_1), [KursySQL](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
++ Fundamenty SQL: [Level all cursess](https://codenga.pl/products/fundamenty_sql_level_1), [KursySQL](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
 + Fundamenty HTML: [KursHTML](https://www.kurshtml.edu.pl/html/wstep,zielony.html)
 + Fundamenty CSS: [KursCSS](https://www.kurshtml.edu.pl/css/wstep,zielony.html)
 + [Software Testing Tutorial](https://www.guru99.com/software-testing.html)
 + [Software Testing](https://www.udacity.com/course/software-testing--cs258)
 + [Software Analysis & Testing](https://www.udacity.com/course/software-analysis-testing--ud333)
++ [Java](https://codegym.cc) 
 
 ## **Technical Books Read**
 + [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/e)
@@ -66,6 +67,8 @@
 
 ## **Sites Used for Learning Coding**
 + [w3schools.com](https://www.w3schools.com)
++ [codegym.cc](https://codegym.cc)
++ [codenga.pl](https://codenga.pl/products)
 + [kodilla.com](https://kodilla.com/pl/wyzwanie-it-zrob-strone-www)
 
 ## **Blogs Read**
@@ -73,12 +76,12 @@
 + [testerzy.pl](https://testerzy.pl)
 + [cherry-it.pl](http://cherry-it.pl)
 + [podcasttestowanie.pl](https://podcasttestowanie.pl)
++ [Consdata](https://consdata.com/pl/)
 
 ## **My Projects (in which I participated)**
 + [Close Beta Play Testing Games "Forever Skies" Organization "Far From Home Team"](https://store.steampowered.com/app/1641960/Forever_Skies/)
 + [Workshops "Programming games in Unity"](https://prnt.sc/thhaT2RhSEYm)
-+ [Cherry It 1/2023]()
-+ [Cherry It COLT 3/2023](in progress)
++ [Cherry It COLT 3/2023](http://cherry-it.pl)
 
 ## **Webinars**
 + [Webinar: Jak zostać Junior Testerem Oprogramowania?](https://www.youtube.com/watch?v=wbj9ACcL7Ts)
@@ -96,6 +99,7 @@
 
 ## **YT Channels**
 + [Technika Programowania](https://www.youtube.com/c/TechnikaProgramowania)
++ [Samuraj Programowania](https://www.youtube.com/@SamurajProgramowania)
 + [Adam Gola](https://www.youtube.com/AdamGola)
 + [Samuraj Programowania](https://www.youtube.com/c/SamurajProgramowania)
 + [ITea Morning - Maciej Wyrodek](https://www.youtube.com/@ITeaMorning)
